@@ -1,4 +1,4 @@
-print(my_dict)my_list = ["apple", "banana", "coconat", "lichi", "mango", "orange"]
+my_list = ["apple", "banana", "coconat", "lichi", "mango", "orange"]
 print("List:", my_list)
 print("First element:", my_list[0])
 print("Last element:", my_list[-1])
